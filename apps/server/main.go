@@ -1,5 +1,11 @@
 package main
 
+import (
+	"fmt"
+
+	"github.com/enescakir/emoji"
+)
+
 func main() {
-	println("Hello world 12")
+	fmt.Println(emoji.WavingHand.Tone())
 }

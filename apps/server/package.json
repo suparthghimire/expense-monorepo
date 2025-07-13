@@ -1,6 +1,6 @@
 {
   "name": "server",
   "scripts": {
-    "dev": "go run main.go"
+    "dev": "air"
   }
 }
